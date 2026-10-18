@@ -1,7 +1,6 @@
 # Fieldwise Smart Crop — Cloud-Based Crop Recommendation Prototype
 
-**Course:** CSI3001 — Cloud Computing Methodologies  
-**Institution:** VIT Vellore
+
 
 Fieldwise is a React + Express academic prototype for comparing crop suitability against user-entered soil texture, season, pH, temperature, and rainfall. It also contains optional location, soil, weather, media, PDF, and Firebase integrations.
 
